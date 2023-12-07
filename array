@@ -1,4 +1,4 @@
-cpp
-int arr[]={1,1,1};,
+//cpp code of arrays
+int arr[]={1,1,1};
 cin>>arr;
 cout<<arr;
