@@ -1,3 +1,4 @@
 c++
 array
 cin>>arr;
+cout<<arr;
