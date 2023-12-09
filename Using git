@@ -1,3 +1,12 @@
 1. Git initialize (TELL GIT YOUR USERNAME AND EMAIL)
 git config --global user.name "yourname"
 git config --global user.email "youreamil"
+
+
+2. Uploding files in github using terminal in vs code 
+git init
+git add .
+git commit -m"yourcommit msg"
+git push -u origin main
+
+3.For adding new changes just omit first commmand in 2.
